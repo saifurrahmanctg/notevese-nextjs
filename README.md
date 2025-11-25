@@ -43,8 +43,8 @@ A RESTful API server built with **Node.js**, **Express**, and **MongoDB** for ma
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/saifurrahmanctg/notevese-nextjs.git
+cd noteverse-server
 ```
 
 2. Install dependencies:
